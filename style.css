@@ -1,0 +1,19 @@
+.judul{
+  font-size: 30px;
+}
+
+.register {
+  background-color: white  !important;
+  background-color: black;
+}
+
+input {
+  width: 60%
+}
+
+button{
+  color: #B08005;
+  width: 135px;
+  height: 40px;
+  font-size: 30px;
+}
